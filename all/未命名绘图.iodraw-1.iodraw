@@ -18,9 +18,6 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--13" value="公开数据集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="246" y="237" width="144" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--14" target="sPmJLkaFLkfQHfb2iQO--13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="457" y="110" width="218" height="216" as="geometry" />
         </mxCell>
@@ -32,6 +29,9 @@
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--19" value="数据增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="270" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="29" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
