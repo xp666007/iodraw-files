@@ -94,16 +94,16 @@
           <mxGeometry x="714" y="664" width="120" height="46" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--69" value="环境搭建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="126.5" y="475" width="60" height="49" as="geometry" />
+          <mxGeometry x="203" y="475" width="60" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--70" value="模型转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="219.5" y="475" width="60" height="49" as="geometry" />
+          <mxGeometry x="296" y="475" width="60" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--71" value="TensorRT优化加速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="475" width="60" height="49" as="geometry" />
+          <mxGeometry x="389" y="475" width="60" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--72" value="功能测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="475" width="60" height="49" as="geometry" />
+          <mxGeometry x="484" y="475" width="60" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
