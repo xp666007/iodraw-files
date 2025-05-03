@@ -76,9 +76,9 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--56" value="模型部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="478" width="120" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--59">
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--59">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="774" y="649.6862505744486" as="targetPoint" />
+            <mxPoint x="774" y="661.1895823759191" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--59" value="模型推理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
