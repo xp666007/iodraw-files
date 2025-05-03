@@ -127,6 +127,9 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--84" value="&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;推理&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="532" width="45" height="30.5" as="geometry" />
         </mxCell>
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--85" value="语音播报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="847" y="668" width="102" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
