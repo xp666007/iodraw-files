@@ -79,6 +79,12 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--56" value="模型部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="478" width="120" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--59" target="sPmJLkaFLkfQHfb2iQO--66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--59" target="sPmJLkaFLkfQHfb2iQO--85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--59" value="自然语言信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="571" width="120" height="46" as="geometry" />
         </mxCell>
@@ -128,7 +134,7 @@
           <mxGeometry x="770" y="532" width="45" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--85" value="语音播报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="847" y="668" width="102" height="46" as="geometry" />
+          <mxGeometry x="840" y="668" width="102" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
