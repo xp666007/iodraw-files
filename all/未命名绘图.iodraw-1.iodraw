@@ -134,7 +134,7 @@
           <mxGeometry x="770" y="532" width="45" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--85" value="语音播报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="819" y="670" width="102" height="46" as="geometry" />
+          <mxGeometry x="815" y="668" width="102" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
