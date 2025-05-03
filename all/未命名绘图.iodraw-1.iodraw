@@ -79,11 +79,6 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--56" value="模型部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="478" width="120" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--59">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="774" y="661.1895823759191" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--59" value="自然语言信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="571" width="120" height="46" as="geometry" />
         </mxCell>
@@ -94,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="616" y="656" width="120" height="46" as="geometry" />
+          <mxGeometry x="647" y="668" width="120" height="46" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--69" target="sPmJLkaFLkfQHfb2iQO--70">
           <mxGeometry relative="1" as="geometry" />
