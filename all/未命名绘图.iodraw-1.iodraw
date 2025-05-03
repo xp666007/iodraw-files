@@ -76,6 +76,9 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--56" value="模型部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="478" width="120" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--59" value="模型部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="714" y="571" width="120" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
