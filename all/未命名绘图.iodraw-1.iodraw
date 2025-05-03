@@ -5,18 +5,18 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sPmJLkaFLkfQHfb2iQO--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--10" target="sPmJLkaFLkfQHfb2iQO--13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="169" />
+              <mxPoint x="410" y="259" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--10" value="日常场景下手语视频" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="246" y="147" width="144" height="43" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--13" value="公开数据集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="246" y="237" width="144" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="431.7119140625" y="217.77777777777771" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="457" y="110" width="218" height="216" as="geometry" />
