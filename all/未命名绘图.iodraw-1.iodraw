@@ -23,7 +23,7 @@
           <mxGeometry x="205" y="163" width="144" height="43" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--13" value="公开数据集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="205" y="253" width="144" height="43" as="geometry" />
+          <mxGeometry x="205" y="225" width="144" height="43" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--35" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
