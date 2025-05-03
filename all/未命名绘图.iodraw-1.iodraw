@@ -114,6 +114,9 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--72" value="功能测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="476.5" width="60" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="383" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
