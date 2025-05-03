@@ -22,14 +22,8 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--19" value="数据增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="270" width="111" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="557" y="205" as="sourcePoint" />
-            <mxPoint x="607" y="155" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="390" y="170" width="50" height="100" as="geometry" />
+          <mxGeometry x="390" y="164" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
