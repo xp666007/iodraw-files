@@ -84,7 +84,7 @@
             <mxPoint x="774" y="661.1895823759191" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--59" value="模型推理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--59" value="自然语言信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="571" width="120" height="46" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--61" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="714" y="664" width="120" height="46" as="geometry" />
+          <mxGeometry x="616" y="656" width="120" height="46" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--69" target="sPmJLkaFLkfQHfb2iQO--70">
           <mxGeometry relative="1" as="geometry" />
@@ -130,7 +130,7 @@
           <mxGeometry x="163" y="441" width="137" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--84" value="&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;推理&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="532" width="137" height="30.5" as="geometry" />
+          <mxGeometry x="770" y="532" width="45" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
