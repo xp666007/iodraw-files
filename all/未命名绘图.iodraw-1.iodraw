@@ -35,8 +35,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--39" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="757" y="220" width="60" height="30" as="geometry" />
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--39" value="图像预处理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467" y="113" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
