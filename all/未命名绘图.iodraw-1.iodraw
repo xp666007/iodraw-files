@@ -53,13 +53,8 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--45" value="语音识别模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="302" width="120" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="774" y="406.0718994140625" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--46" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
-          <mxGeometry x="669" y="348" width="210" height="51" as="geometry" />
+          <mxGeometry x="669" y="348" width="210" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
