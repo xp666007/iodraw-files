@@ -50,8 +50,8 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--44" value="语音流输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="224.5" width="120" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--45" value="语音流输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="302" width="120" height="46" as="geometry" />
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--45" value="语音识别模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="302" width="120" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
