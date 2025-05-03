@@ -99,7 +99,7 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--70" value="模型转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="213" y="503" width="60" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--71" value="环境搭建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--71" value="TensorRT优化加速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="306" y="503" width="60" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--72" value="环境搭建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
