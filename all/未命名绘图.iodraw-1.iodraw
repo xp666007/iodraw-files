@@ -90,7 +90,7 @@
             <mxPoint x="607" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--66" value="模型推理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="664" width="120" height="46" as="geometry" />
         </mxCell>
       </root>
