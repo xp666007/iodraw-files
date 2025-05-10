@@ -8,7 +8,7 @@
           <mxGeometry x="79" y="169.5" width="944" height="577.5" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--78" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="252" y="444" width="441" height="115" as="geometry" />
+          <mxGeometry x="245" y="441" width="441" height="115" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="289" y="220" width="180" height="216" as="geometry" />
@@ -129,7 +129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--82" value="&lt;p style=&quot;font-size: 14px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;NVIDIA&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Jetson&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;TX&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;2 部署&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="245" y="444" width="137" height="30.5" as="geometry" />
+          <mxGeometry x="245" y="444" width="155" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--84" value="&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;推理&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="859" y="537" width="45" height="30.5" as="geometry" />
