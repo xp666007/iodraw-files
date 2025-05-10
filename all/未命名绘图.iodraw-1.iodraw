@@ -66,13 +66,13 @@
           <mxGeometry x="871" y="227.5" width="100" height="46" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--45" value="语音识别模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="871" y="305" width="120" height="46" as="geometry" />
+          <mxGeometry x="871" y="305" width="99" height="46" as="geometry" />
         </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sPmJLkaFLkfQHfb2iQO--46" target="sPmJLkaFLkfQHfb2iQO--56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--46" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" parent="1" vertex="1">
-          <mxGeometry x="775" y="351" width="157" height="49" as="geometry" />
+        <mxCell id="sPmJLkaFLkfQHfb2iQO--46" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="829" y="297" width="49" height="157" as="geometry" />
         </mxCell>
         <mxCell id="XcsQmpU61eGoDbqZt7GX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sPmJLkaFLkfQHfb2iQO--56" target="sPmJLkaFLkfQHfb2iQO--59">
           <mxGeometry relative="1" as="geometry" />
