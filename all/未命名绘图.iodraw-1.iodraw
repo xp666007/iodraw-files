@@ -139,13 +139,10 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--85" value="语音播报" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="897" y="671" width="102" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="XcsQmpU61eGoDbqZt7GX-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="XcsQmpU61eGoDbqZt7GX-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="473" y="722" as="sourcePoint" />
-            <mxPoint x="471" y="788" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="483" y="775" />
-            </Array>
+            <mxPoint x="532" y="805" as="sourcePoint" />
+            <mxPoint x="582" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
