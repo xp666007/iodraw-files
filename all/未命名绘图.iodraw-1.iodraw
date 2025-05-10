@@ -74,11 +74,6 @@
         <mxCell id="sPmJLkaFLkfQHfb2iQO--46" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" parent="1" vertex="1">
           <mxGeometry x="751" y="351" width="181" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="sPmJLkaFLkfQHfb2iQO--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sPmJLkaFLkfQHfb2iQO--56" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="856" y="574.3007094439338" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sPmJLkaFLkfQHfb2iQO--56" value="模型部署" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="781.5" y="481" width="120" height="46" as="geometry" />
         </mxCell>
